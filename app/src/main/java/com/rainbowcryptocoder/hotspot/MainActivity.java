@@ -106,7 +106,6 @@ public class MainActivity extends FragmentActivity implements CompoundButton.OnC
     public boolean onCreateOptionsMenu(Menu menu) {
 
         // Inflate the menu; this adds items to the action bar if it is present.
-        //TODO Add more settings
 //        getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
